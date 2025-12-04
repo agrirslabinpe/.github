@@ -46,17 +46,17 @@ If you would like to learn more about our laboratory and our research, please fo
 [![Linkedin Badge](https://img.shields.io/badge/-Cleverton_Santana-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleverton-santana-80b915175/)](https://www.linkedin.com/in/cleverton-santana-80b915175/)
 [![Orcid Badge](https://img.shields.io/badge/-Cleverton_Santana-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0002-7722-6492)](https://orcid.org/0000-0002-7722-6492)
 
-- **Victor Hugo Rohden Prudente**
+- **Victor Hugo Prudente**
 [![GitHub Badge](https://img.shields.io/badge/-victorohden-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/victorohden)
 [![Gmail Badge](https://img.shields.io/badge/-victor.rprudente@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:victor.rprudente@gmail.com)](mailto:victor.rprudente@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Victor_Hugo_Rohden_Prudente-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorohden/)](https://www.linkedin.com/in/victorohden/)
+[![Linkedin Badge](https://img.shields.io/badge/-Victor_Hugo_Prudente-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorohden/)](https://www.linkedin.com/in/victorohden/)
 [![Orcid Badge](https://img.shields.io/badge/-Victor_Hugo_Prudente-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0002-0211-7099)](https://orcid.org/0000-0002-0211-7099)
 
-- **Priscilla Azevedo dos Santos**
+- **Priscilla dos Santos**
 [![GitHub Badge](https://img.shields.io/badge/-Priscasantos-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Priscasantos)
 [![Gmail Badge](https://img.shields.io/badge/-priscilla.santos@inpe.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:priscilla.santos@inpe.br)](mailto:priscilla.santos@inpe.br)
-[![Linkedin Badge](https://img.shields.io/badge/-Priscilla_Azevedo_dos_Santos-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilla-azevedo-dos-santos-659031209/)](https://www.linkedin.com/in/priscilla-azevedo-dos-santos-659031209/)
-[![Orcid Badge](https://img.shields.io/badge/-Priscilla_Azevedo_dos_Santos-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0001-5987-9222)](https://orcid.org/0000-0001-5987-9222)
+[![Linkedin Badge](https://img.shields.io/badge/-Priscilla_dos_Santos-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilla-azevedo-dos-santos-659031209/)](https://www.linkedin.com/in/priscilla-azevedo-dos-santos-659031209/)
+[![Orcid Badge](https://img.shields.io/badge/-Priscilla_dos_Santos-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0001-5987-9222)](https://orcid.org/0000-0001-5987-9222)
 
 - **Nildson Silva**
 [![GitHub Badge](https://img.shields.io/badge/-nrfsilva-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/nrfsilva)
