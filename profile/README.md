@@ -50,7 +50,7 @@ If you would like to learn more about our laboratory and our research, please fo
 [![GitHub Badge](https://img.shields.io/badge/-victorohden-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/victorohden)
 [![Gmail Badge](https://img.shields.io/badge/-victor.rprudente@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:victor.rprudente@gmail.com)](mailto:victor.rprudente@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Victor_Hugo_Rohden_Prudente-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorohden/)](https://www.linkedin.com/in/victorohden/)
-[![Orcid Badge](https://img.shields.io/badge/-Victor_Hugo_Rohden_Prudente-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0002-0211-7099)](https://orcid.org/0000-0002-0211-7099)
+[![Orcid Badge](https://img.shields.io/badge/-Victor_Hugo_Prudente-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0002-0211-7099)](https://orcid.org/0000-0002-0211-7099)
 
 - **Priscilla Azevedo dos Santos**
 [![GitHub Badge](https://img.shields.io/badge/-Priscasantos-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Priscasantos)
