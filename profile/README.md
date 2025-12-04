@@ -40,6 +40,12 @@ If you would like to learn more about our laboratory and our research, please fo
 [![Linkedin Badge](https://img.shields.io/badge/-Grazieli_Rodigheri-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grazielirodigheri/)](https://www.linkedin.com/in/grazielirodigheri/)
 [![Orcid Badge](https://img.shields.io/badge/-Grazieli_Rodigheri-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0002-9916-1167)](https://orcid.org/0000-0002-9916-1167)
 
+- **Andre Dalla**
+[![GitHub Badge](https://img.shields.io/badge/-Dalla01-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Dalla01)
+[![Gmail Badge](https://img.shields.io/badge/-andre.garcia@inpe.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andre.garcia@inpe.br)](mailto:andre.garcia@inpe.br)
+[![Linkedin Badge](https://img.shields.io/badge/-Andre_Dalla-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-dalla-bernardina-garcia-a77b20116/)](https://www.linkedin.com/in/andre-dalla-bernardina-garcia-a77b20116/)
+[![Orcid Badge](https://img.shields.io/badge/-Andre_Dalla-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0001-9063-4397)](https://orcid.org/0000-0001-9063-4397)
+
 - **Cleverton Santana**
 [![GitHub Badge](https://img.shields.io/badge/-clevertontiago-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/clevertontiago)
 [![Gmail Badge](https://img.shields.io/badge/-cleverton.santana@inpe.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cleverton.santana@inpe.br)](mailto:cleverton.santana@inpe.br)
