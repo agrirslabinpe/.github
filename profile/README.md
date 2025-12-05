@@ -76,6 +76,12 @@ If you would like to learn more about our laboratory and our research, please fo
 [![Linkedin Badge](https://img.shields.io/badge/-Marina_Galdez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marinagaldez/)](https://www.linkedin.com/in/marinagaldez/)
 [![Orcid Badge](https://img.shields.io/badge/-Marina_Galdez-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0003-1228-0874)](https://orcid.org/0000-0003-1228-0874)
 
+- **Ana Júlia Dias**
+[![GitHub Badge](https://img.shields.io/badge/-ana--m--dias-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/ana-m-dias)
+[![Gmail Badge](https://img.shields.io/badge/-ana.dias@inpe.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ana.dias@inpe.br)](mailto:ana.dias@inpe.br)
+[![Linkedin Badge](https://img.shields.io/badge/-Ana_Júlia_Dias-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-j%C3%BAlia-magalh%C3%A3es-gon%C3%A7alves-dias-1682ab274/)](https://www.linkedin.com/in/ana-j%C3%BAlia-magalh%C3%A3es-gon%C3%A7alves-dias-1682ab274/)
+[![Orcid Badge](https://img.shields.io/badge/-Ana_Júlia_Dias-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0003-3263-9813)](https://orcid.org/0000-0003-3263-9813)
+
 - **Gabriel Sansigolo**
 [![GitHub Badge](https://img.shields.io/badge/-GSansigolo-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/GSansigolo)
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.sansigolo@inpe.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gabriel.sansigolo@inpe.br)](mailto:gabriel.sansigolo@inpe.br)
