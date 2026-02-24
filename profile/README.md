@@ -64,6 +64,12 @@ If you would like to learn more about our laboratory and our research, please fo
 [![Linkedin Badge](https://img.shields.io/badge/-Priscilla_dos_Santos-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilla-azevedo-dos-santos-659031209/)](https://www.linkedin.com/in/priscilla-azevedo-dos-santos-659031209/)
 [![Orcid Badge](https://img.shields.io/badge/-Priscilla_dos_Santos-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0001-5987-9222)](https://orcid.org/0000-0001-5987-9222)
 
+- **Tânia Beatriz Hoffmann**
+[![GitHub Badge](https://img.shields.io/badge/-tbhoffmann-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/tbhoffmann)
+[![Gmail Badge](https://img.shields.io/badge/-taniabeatrizhoffmann@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:taniabeatrizhoffmann@gmail.com)](mailto:taniabeatrizhoffmann@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Tania_Beatriz_Hoffmann-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tania-beatriz-hoffmann/)](https://www.linkedin.com/in/tania-beatriz-hoffmann/)
+[![Orcid Badge](https://img.shields.io/badge/-Tania_Beatriz_Hoffmann-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0002-8246-5666)](https://orcid.org/0000-0002-8246-5666)
+
 - **Nildson Silva**
 [![GitHub Badge](https://img.shields.io/badge/-nrfsilva-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/nrfsilva)
 [![Gmail Badge](https://img.shields.io/badge/-nildson.silva@inpe.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nildson.silva@inpe.br)](mailto:nildson.silva@inpe.br)
