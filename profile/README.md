@@ -94,3 +94,8 @@ If you would like to learn more about our laboratory and our research, please fo
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Sansigolo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-sansigolo-9ab7b0ab/)](https://www.linkedin.com/in/gabriel-sansigolo-9ab7b0ab/)
 [![Orcid Badge](https://img.shields.io/badge/-Gabriel_Sansigolo-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0003-0789-5858)](https://orcid.org/0000-0003-0789-5858)
 
+- **Lívia Gabriele Dias Soares**
+[![GitHub Badge](https://img.shields.io/badge/-livia--soares-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/livia-soares)
+[![Gmail Badge](https://img.shields.io/badge/-livia.soares@inpe.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:livia.soares@inpe.br)](mailto:livia.soares@inpe.br)
+[![Linkedin Badge](https://img.shields.io/badge/-Livia Gabriele Dias Soares-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/livia-gabriele-dias/)](https://www.linkedin.com/in/livia-gabriele-dias/)
+[![Orcid Badge](https://img.shields.io/badge/-Livia Gabriele Dias Soares-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0002-9159-9965)](https://orcid.org/0000-0002-9159-9965)
